@@ -1,9 +1,9 @@
-# SWDB_2023
+# TReND CaMinA
 
-This is the template repository for the Visual Coding datasets the 2023 Summer Workshop on the Dynamic Brain.
+This is the template repository for working with the Allen Brain Observatory - Visual Coding datasets in Code Ocean
 
 # Support Policy
 
-We are releasing this code as part of the 2023 Summer Workshop on the Dynamic Brain and will only be supporting and developing it for the context of this workshop. The community is welcome to submit issues, but you should not expect an active response outside of the context of the course.
+We are releasing this code as part of TReND CaMinA and will only be supporting and developing it for the context of this workshop. The community is welcome to submit issues, but you should not expect an active response outside of the context of the course.
 
-Copyright 2023 Allen Institute
+Copyright 2024 Allen Institute
